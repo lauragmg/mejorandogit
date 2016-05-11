@@ -1,0 +1,35 @@
+commit 1caf73ab2b9006473f752df8fbbb231b18c153d6
+Author: Laura Garcia <info@elau.es>
+Date:   Tue May 10 11:16:14 2016 +0200
+
+    5 cambiado portfolio
+
+commit 72c758f9320bb4159a9a29c9be632ae80f9b26bb
+Author: Laura Garcia <info@elau.es>
+Date:   Tue May 10 11:14:49 2016 +0200
+
+    4 cambiado descripción
+
+commit d967529e41c981b6d05926e07475555e09b0c80c
+Author: Laura Garcia <info@elau.es>
+Date:   Tue May 10 11:13:13 2016 +0200
+
+    3 cambiado redes sociales
+
+commit ed6e5ca5cee02d1c0428f4ae286e11fc3ddc3ab2
+Author: Laura Garcia <info@elau.es>
+Date:   Tue May 10 11:09:36 2016 +0200
+
+    2 Cambiado perfil web
+
+commit 809f189277ad42016eb7973bc3d150fbcc09ef97
+Author: Laura Garcia <info@elau.es>
+Date:   Tue May 10 11:06:17 2016 +0200
+
+    1 Cambiado nombre
+
+commit af5c8d457455395e71f88e0c1a27649fd3c50d33
+Author: Laura Garcia <info@elau.es>
+Date:   Tue May 10 10:54:59 2016 +0200
+
+    Esta es la base de mi portfolio
